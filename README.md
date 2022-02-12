@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pixelateddwarf
-- 👀 I’m interested in Linux, web development and networking
+- 👀 I’m interested in Linux, web development, security and networking
 - 🌱 I’m currently studying for my Junos, Associate (JNCIA-Junos) 
 - 📫 How to reach me - https://PixelatedDwarf.com
 
