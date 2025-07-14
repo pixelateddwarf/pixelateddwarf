@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pixelateddwarf
 - 👀 I’m interested in Linux, web development, security and networking
-- 🌱 I’m currently studying cybersecurity & bug bounty hunting
+- 🌱 I’m currently learning more in cybersecurity & bug bounty hunting
 - 📫 How to reach me - https://PixelatedDwarf.com
 
 <!---
